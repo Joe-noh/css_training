@@ -3,10 +3,3 @@
       <router-view class="router-view"></router-view>
     </div>
 </template>
-
-<style lang="stylus">
-  .router-view
-    max-width: 960px
-    margin: 0 auto
-    position: relative
-</style>
